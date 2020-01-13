@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28add7ad4625f8748a81d045544985b2, type: 3}
-  m_Name: AlexDnaAsset
+  m_Name: DryDynamicUMADnaAsset
   m_EditorClassIdentifier: 
-  dnaTypeHash: 1320030531
-  lastKnownAssetPath: Assets/DrylandsRace/AlexStuff/DNA/AlexDnaAsset.asset
-  lastKnownDuplicateAssetPath: Assets/DrylandsRace/AlexStuff/DNA/AlexDnaAsset 1.asset
-  lastKnownInstanceID: -15814
+  dnaTypeHash: 1946923742
+  lastKnownAssetPath: Assets/DrylandsRace/AlexStuff/DNA/DryDynamicUMADnaAsset.asset
+  lastKnownDuplicateAssetPath: Assets/DrylandsRace/AlexStuff/DNA/DryDynamicUMADnaAsset
+    1.asset
+  lastKnownInstanceID: -4392
   Names:
-  - LeftArm
+  - BigHand
